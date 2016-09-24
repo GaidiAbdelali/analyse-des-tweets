@@ -1,0 +1,14 @@
+service\CrawlerTwiter.class
+models\Crawler.class
+controllers\Ctrl.class
+service\PostTwitter.class
+models\Match.class
+service\Analyse.class
+models\Tags.class
+Repositories\MatchRepository.class
+models\Tweet.class
+service\MapReduce.class
+Repositories\TweetRepository.class
+Repositories\CrawlerRepository.class
+service\Services.class
+models\Statistics.class
